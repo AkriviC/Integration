@@ -1,0 +1,11 @@
+{
+	"min_magnitude": 6.0,
+	"max_magnitude": 8.0,
+	"min_distance": "None",
+	"max_distance": 70.0,
+	"ref_coords": {
+		"lon": 21.18259,
+		"lat": 39.77018
+	},
+	"IM_threshold": 0.2
+}
